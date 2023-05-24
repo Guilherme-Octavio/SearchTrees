@@ -1,1 +1,1 @@
-from Search import *
+import Search
